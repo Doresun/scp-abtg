@@ -1,0 +1,8 @@
+"scp-abtg"
+{
+	"base"			"base"
+	"title"			"SCP: Another Breach-Type Gamemode"
+	"maps"			"^scpa_"
+	"category"		"pvp"
+	"menusystem"	"1"
+}

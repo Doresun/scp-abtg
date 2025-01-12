@@ -1,0 +1,8 @@
+{
+    "title"     :       "SCP: Another Breach-Type Gamemode",
+    "type"      :       "gamemode",
+    "tags"      :       ["fun","realism"],
+    "ignore"    :
+    [
+    ]
+}
